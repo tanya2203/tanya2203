@@ -1,4 +1,4 @@
-> <h1 align="left">Hi 👋, I'm Rishabh Varshney</h1>
+> <h1 align="left">Hi 👋, I'm Tanya Verma</h1>
 
 <img align="right" width="400px" src="https://www.pinclipart.com/picdir/big/90-907332_json-at-master-github-octocat-clipart.png">
 
@@ -7,14 +7,6 @@
 - 🔭 I’m currently working on <a href="https://github.com/var-rishabh/codePedia">**`CodePedia`**</a>
 
 - 🌱 I’m currently learning Typescript.
-
-- 📫 Always available at **[`right.rishabh@gmail.com`](mailto:right.rishabh@gmail.com)**
-
-- 👬 My partners: <a href="https://github.com/siddastic" style="text-decoration:none;">`Siddhant`</a> & <a href="https://github.com/nazims-flow">`Nazim`</a>
-
-- ☢ My friends call me **`Radioactive`**
-
-- ⚡ Other interest : `volleyball 🏐` | `Astronomy 🔭`
 
 <br> 
 
@@ -52,12 +44,12 @@
 
 ---
  
-![Rishabh's Github Stats](https://github-readme-stats.vercel.app//api?username=var-rishabh&show_icons=true&theme=gotham&hide_border=true&bg_color=0d1117&title_color=38d252&icon_color=1f6fea&text_color=fefefe)
+![Rishabh's Github Stats](https://github-readme-stats.vercel.app//api?username=tanya2203&show_icons=true&theme=gotham&hide_border=true&bg_color=0d1117&title_color=38d252&icon_color=1f6fea&text_color=fefefe)
  
-[![Rishabh's Github Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=var-rishabh&bg_color=0d1117&color=f0f0f0&line=38d252&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Rishabh's Github Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=tanya2203&bg_color=0d1117&color=f0f0f0&line=38d252&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=var-rishabh&theme=github-dark&hide_border=true" alt="var-rishabh"/>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tanya2203&theme=github-dark&hide_border=true" alt="var-rishabh"/>
 
-[![Top Langs](https://github-readme-stats.vercel.app//api/top-langs/?username=var-rishabh&layout=compact&theme=gotham&langs_count=10&hide_border=true&bg_color=0d1117&text_color=fefefe)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app//api/top-langs/?username=tanya2203&layout=compact&theme=gotham&langs_count=10&hide_border=true&bg_color=0d1117&text_color=fefefe)](https://github.com/anuraghazra/github-readme-stats)
   
 [![@radioactive's Holopin board](https://holopin.me/radioactive)](https://holopin.io/@radioactive)
