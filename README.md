@@ -11,11 +11,11 @@
 <br> 
 
 ><h3 align="left">🌏 Get in Touch</h3>
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rishabh-builds/)
-[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/var_rishabh) 
-[![instagram](https://img.shields.io/badge/instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rishabh.rbxl/)
-[![facebook](https://img.shields.io/badge/facebook-4267B2?style=for-the-badge&logo=instagram&logoColor=white)](https://fb.com/radioactive.var/)
-[![discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/RadiØActive#2034/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tanya-verma-2795b3222/)
+[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/tanyaverma2022) 
+
+
+
 
 <br>
 
@@ -44,12 +44,10 @@
 
 ---
  
-![Rishabh's Github Stats](https://github-readme-stats.vercel.app//api?username=tanya2203&show_icons=true&theme=gotham&hide_border=true&bg_color=0d1117&title_color=38d252&icon_color=1f6fea&text_color=fefefe)
+![Tanya's Github Stats](https://github-readme-stats.vercel.app//api?username=tanya2203&show_icons=true&theme=gotham&hide_border=true&bg_color=0d1117&title_color=38d252&icon_color=1f6fea&text_color=fefefe)
  
-[![Rishabh's Github Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=tanya2203&bg_color=0d1117&color=f0f0f0&line=38d252&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Tanya's Github Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=tanya2203&bg_color=0d1117&color=f0f0f0&line=38d252&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tanya2203&theme=github-dark&hide_border=true" alt="var-rishabh"/>
 
 [![Top Langs](https://github-readme-stats.vercel.app//api/top-langs/?username=tanya2203&layout=compact&theme=gotham&langs_count=10&hide_border=true&bg_color=0d1117&text_color=fefefe)](https://github.com/anuraghazra/github-readme-stats)
-  
-[![@radioactive's Holopin board](https://holopin.me/radioactive)](https://holopin.io/@radioactive)
