@@ -4,7 +4,7 @@
 
 > <h3 align="left">An ardent full stack developer from India.</h3>
 
-- 🔭 I’m currently working on <a href="https://github.com/var-rishabh/codePedia">**`CodePedia`**</a>
+- 🔭 I’m currently learning DSA<a href="https://github.com/var-rishabh/codePedia">**``**</a>
 
 - 🌱 I’m currently learning Typescript.
 
