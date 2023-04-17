@@ -4,9 +4,9 @@
 
 > <h3 align="left">An ardent full stack developer from India.</h3>
 
-- 🔭 I’m currently learning DSA<a href="https://github.com/var-rishabh/codePedia">**``**</a>
+- 🔭 I’m currently learning DSA<a href="https://github.com/tanya2203/Atomic">**`Atomic`**</a>
 
-- 🌱 I’m currently learning Typescript.
+- 🌱 I’m currently learning React.
 
 <br> 
 
