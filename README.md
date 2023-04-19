@@ -4,7 +4,7 @@
 
 > <h3 align="left">An ardent full stack developer from India.</h3>
 
-- 🔭 I’m currently learning DSA<a href="https://github.com/tanya2203/Atomic">**`Atomic`**</a>
+- 🔭 I’m currently working on <a href="https://github.com/tanya2203/Atomic">**`Atomic`**</a>
 
 - 🌱 I’m currently learning React.
 
@@ -29,11 +29,10 @@
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Node.JS](https://img.shields.io/badge/nodejs-339933.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Express.JS](https://img.shields.io/badge/expressjs-black.svg?style=for-the-badge&logo=expressjs&logoColor=white)
+
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Next JS](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![jquery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
-![MongoDB](https://img.shields.io/badge/mongodb-4DB33D.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+
+
 ![SQL](https://img.shields.io/badge/sql-00758F.svg?style=for-the-badge&logo=sql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-F29111.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/git-f34f29.svg?style=for-the-badge&logo=git&logoColor=white)
